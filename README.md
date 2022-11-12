@@ -10,4 +10,4 @@
 - Scale the diagonal matrix by N
 - Multiply the eigenvector matrix by the diagonal matrix
 - Multiply the resulting matrix by the product of u0 and the inverse of the eingenvector matrix
-- The Resulting vector contains [F~n~ ~+~ ~1~, F~n~]
+- The Resulting vector contains [Fn + 1, Fn]
